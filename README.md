@@ -41,3 +41,4 @@ Notebook ini mencakup:
 - Scikit-learn
 
 Dashboard: (https://public.tableau.com/app/profile/gerald.ginting/viz/capstone2_17440301309570/Dashboard1?publish=yes)
+Presentation: (https://docs.google.com/presentation/d/1pj1aukkWzLRr_RK3VwsNse2j_S1HhLb4gswdXCrgHOY/edit?usp=sharing)
